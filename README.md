@@ -2,19 +2,19 @@
 
   <h3> Hi there，Welcome to visit my github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> </h3>
 
-  <img align="right" src="https://komarev.com/ghpvc/?username=roy-lau&color=brightgreen" >
+  <img align="right" src="https://komarev.com/ghpvc/?username=roy-lau&color=brightgreen" alt="profile views">
 
   <p>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" /> 
-    <a href="https://github.com/roy-lau">大专</a> |
+    <a href="http://hnzj.edu.cn/" alt="edu">大专</a> |
     
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />
-   <a href="https://github.com/roy-lau">搬砖</a>
+   <a href="https://github.com/roy-lau" alt="github">搬砖</a>
 
    <br />
    
   <a href="https://github.com/roy-lau">
-      <img src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true&theme=material-palenight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true&theme=material-palenight&count_private=true" />
   </a>
   
    <a href="https://github.com/roy-lau">
