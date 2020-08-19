@@ -18,7 +18,7 @@
   </a>
   
    <a href="https://github.com/roy-lau">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight&layout=compact" />
    </a>
    
   </p>
@@ -28,7 +28,7 @@
 <br />
 
 <details>
- <summary><h4>仓库列表：</h4></summary>
+ <summary>仓库列表：</summary>
 
 
 > todo: 使用 github action 动态生成
