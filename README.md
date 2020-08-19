@@ -3,8 +3,6 @@
   <h3> Hi there，Welcome to visit my github profile <img
           src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> </h3>
 
-  <img class="avatar avatar-user width-full border bg-white" src="https://avatars0.githubusercontent.com/u/22829291" />
-
   <p>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" /> 
     <a href="https://github.com/roy-lau">大专</a> |
