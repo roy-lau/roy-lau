@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h3> Hi there，Welcome to visit my github profile <img
-          src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> </h3>
+  <h3> Hi there，Welcome to visit my github profile <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" /> </h3>
+
+  <img align="right" src="https://komarev.com/ghpvc/?username=roy-lau&color=brightgreen" >
 
   <p>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" /> 
@@ -12,34 +13,71 @@
 
    <br />
    
+  <a href="https://github.com/roy-lau">
+      <img src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true&theme=material-palenight" />
+  </a>
+  
    <a href="https://github.com/roy-lau">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight" />
    </a>
    
   </p>
-
-  <a href="https://github.com/roy-lau">
-      <img align="center"
-          src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true" />
-  </a>
-
-<hr />
-
-<h4>仓库列表：</h4>
-
-> todo: 使用 github action 动态生成
-
-<a href="https://github.com/roy-lau/blog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=blog" />
-</a>
-
-<a href="https://github.com/roy-lau/web_list">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=web_list" />
-</a>
 </div>
 
 <hr />
 <br />
+
+<details>
+ <summary><h4>仓库列表：</h4></summary>
+
+
+> todo: 使用 github action 动态生成
+
+  <a href="https://github.com/roy-lau/blog">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=blog&theme=dark" />
+  </a>
+
+  <a href="https://github.com/roy-lau/web_list">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=web_list&theme=radical" />
+  </a>
+
+<!--
+  <a href="https://github.com/roy-lau/web_project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=web_project&theme=gruvbox&count_private=true" />
+  </a>
+-->
+
+  <a href="https://github.com/roy-lau/nodejs">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=nodejs&theme=merko" />
+  </a>
+
+  <a href="https://github.com/roy-lau/python_stu">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=python_stu&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/roy-lau/RSFroum">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=RSFroum&theme=onedark" />
+  </a>
+
+  <a href="https://github.com/roy-lau/github-bigfiles">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=github-bigfiles&theme=cobalt" />
+  </a>
+
+  <a href="https://github.com/roy-lau/tencentcloud-sls">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=tencentcloud-sls&theme=synthwave" />
+  </a>
+
+  <a href="https://github.com/roy-lau/ng-apps">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=ng-apps&theme=highcontrast" />
+  </a>
+
+  <a href="https://github.com/roy-lau/vue">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roy-lau&repo=vue&theme=dracula" />
+  </a>
+  
+</details>
+
+<hr />
 
 参考：https://github.com/anuraghazra/github-readme-stats
 
@@ -57,4 +95,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
