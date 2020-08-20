@@ -24,13 +24,14 @@
 
   <a href="https://github.com/roy-lau">
       <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight&layout=compact" />
+  </a>
+  
+  <a href="https://github.com/roy-lau">
+      <img
           src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true&theme=material-palenight&count_private=true" />
   </a>
 
-  <a href="https://github.com/roy-lau">
-      <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight&layout=compact" />
-  </a>
 
 </div>
 

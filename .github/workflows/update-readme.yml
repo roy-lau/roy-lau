@@ -2,8 +2,9 @@ name: Update README
 
 on:
   schedule:
+    # {秒数} {分钟} {小时} {日期} {月份} {星期} {年份(可为空)}
     - cron: "*/30 * * * *"
-  workflow_dispatch: 更新最新动态
+  workflow_dispatch: "更新最新动态"
 
 jobs:
   build:
