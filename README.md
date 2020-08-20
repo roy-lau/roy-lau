@@ -12,26 +12,17 @@
   </div>
 
 
-<div align="left">
-    <h3>:zap: 动态</h3>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</div>
-
-<div align="right">
+<div>
 
   <a href="https://github.com/roy-lau">
       <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-lau&show_icons=true&theme=material-palenight&layout=compact" />
   </a>
-  
+
   <a href="https://github.com/roy-lau">
       <img
           src="https://github-readme-stats.vercel.app/api?username=roy-lau&show_icons=true&theme=material-palenight&count_private=true" />
   </a>
-
 
 </div>
 
