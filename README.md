@@ -14,7 +14,14 @@
    <!-- <img src="https://badges.pufler.dev/gists/roy-lau" alt="gists" /> -->
   </div>
 
-
+<!-- 
+浏览次数
+<p align="center"> 
+  <span style="font-weight: 700">Visitor Count</span>
+  <br>
+  <img src="https://profile-counter.glitch.me/roy-lau/count.svg" />
+</p>
+-->
 <div>
 
   <a href="https://github.com/roy-lau">
